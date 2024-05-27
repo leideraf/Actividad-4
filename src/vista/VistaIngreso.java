@@ -142,7 +142,7 @@ public class VistaIngreso extends javax.swing.JFrame {
         jScrollPane2.setViewportView(jtDatos);
 
         jLabel3.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
-        jLabel3.setText("V-COLTIS");
+        jLabel3.setText("Cuida tus mascotas");
 
         btnGuardar.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         btnGuardar.setText("Guardar");
