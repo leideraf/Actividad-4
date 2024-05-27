@@ -18,7 +18,7 @@ import modelo.Procedimiento;
 public class VistaHistorial extends javax.swing.JFrame {
 
     /**
-     * Creates new form VistaHistorial
+     * Creacion de clase principal
      */
     Mascota m;
     VistaIngreso vi;
