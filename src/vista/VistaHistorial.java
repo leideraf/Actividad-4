@@ -202,7 +202,7 @@ public class VistaHistorial extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnGuardar1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnGuardar1ActionPerformed
-        // TODO add your handling code here:
+        // Funcion historial
         Historial n = new Historial();
         n.setCodigo(codigo);
         codigo++;
