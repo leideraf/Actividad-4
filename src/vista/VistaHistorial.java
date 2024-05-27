@@ -13,7 +13,7 @@ import modelo.Procedimiento;
 
 /**
  *
- * @author juand
+ * Leider arias franco
  */
 public class VistaHistorial extends javax.swing.JFrame {
 
@@ -134,7 +134,7 @@ public class VistaHistorial extends javax.swing.JFrame {
         jScrollPane1.setViewportView(tfDescripcion);
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
-        jLabel4.setText("V-COLTIS");
+        jLabel4.setText("Cuida las mascotas");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

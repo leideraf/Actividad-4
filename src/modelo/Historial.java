@@ -6,7 +6,7 @@ package modelo;
 
 /**
  *
- * @author ucoltis
+ * leider arias franco
  */
 public class Historial {
 

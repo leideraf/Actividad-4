@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author ucoltis
+ * leider arias franco
  */
 public class Mascota {
     
